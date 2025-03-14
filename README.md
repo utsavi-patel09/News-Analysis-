@@ -30,7 +30,7 @@ The dataset serves as the primary input for sentiment analysis and classificatio
 - **Hindi News Analysis:** [hindi_sentimental_analysis_with_pattern.ipynb](https://github.com/YashviPopat/News-Analysis-System/blob/4dd9704fc764097180adc6c10536f7f6feb408ae/sentimental_analysis_with_pattern.ipynb)
 
 ## 📂 Demo
-[Watch video](Demo): Click on view Row option.
+- [Watch video](Demo): Click on view Row option.
 
 
 ## 🛠 Requirements
