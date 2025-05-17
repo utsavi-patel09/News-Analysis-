@@ -35,7 +35,7 @@ The dataset serves as the primary input for sentiment analysis and classificatio
 
 ### **Programming Language & Environment:**
 - **Python 3.8+**
-- **Jupyter Notebook** *(optional, for interactive code execution)*
+- **Jupyter Notebook** 
 
 ### **Libraries & Frameworks:**
 - **Streamlit** *(for UI and dashboard)*
