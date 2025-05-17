@@ -18,7 +18,7 @@ The dataset consists of a **CSV file** containing web-scraped news articles. Eac
 - **Title** of the article
 - **Content** of the article
 - **Publication date**
-- **Classification label** indicating whether the article is real or fake
+- **Sentimental label** indicating whether the article is positive, negative or newtral
 
 The dataset serves as the primary input for sentiment analysis and classification tasks.
 
