@@ -1,6 +1,6 @@
 # News Analysis System
 
-This project develops a **News Analysis System** that automatically collects news articles from various websites using web scraping. It performs sentiment analysis to classify news as **positive**, **negative**, or **neutral** with corresponding intensity scores. Additionally, the system classifies articles as **real or fake**, providing the probability of each classification.
+This project develops a **News Analysis System** that automatically collects news articles from various websites using web scraping. It performs sentiment analysis to classify news as **positive**, **negative**, or **neutral**.
 
 The system supports two languages — **English** and **Hindi**, extending its applicability. Results are displayed in an **interactive Streamlit dashboard**, enabling users to explore patterns in news content with ease.
 
@@ -9,7 +9,6 @@ The system supports two languages — **English** and **Hindi**, extending its a
 - **Automated Data Collection:** Web scraping to gather news articles.
 - **Sentiment Analysis:** Classify news sentiment as positive, negative, or neutral, along with intensity scores.
 - **Pattern Analysis:** Cluster news articles to detect patterns.
-- **Real or Fake News Classification:** Predict news authenticity with probability scores.
 - **Multilingual Support:** Analysis in both English and Hindi.
 - **Interactive Dashboard:** Visualize and explore results through a user-friendly interface.
 
@@ -25,7 +24,6 @@ The dataset serves as the primary input for sentiment analysis and classificatio
 
 ## 📂 Code Files
 
-- **Real or Fake News Classification:** [fake_real_with_pattern.ipynb](https://github.com/YashviPopat/News-Analysis-System/blob/2921c858e35f2b52f059e4b05c6f9c7cf20cbb8b/fake_real_with_pattern.ipynb)
 - **Sentiment Analysis of News:** [sentimental_analysis_with_pattern.ipynb](https://github.com/YashviPopat/News-Analysis-System/blob/4dd9704fc764097180adc6c10536f7f6feb408ae/sentimental_analysis_with_pattern.ipynb)
 - **Hindi News Analysis:** [hindi_sentimental_analysis_with_pattern.ipynb](https://github.com/YashviPopat/News-Analysis-System/blob/4dd9704fc764097180adc6c10536f7f6feb408ae/sentimental_analysis_with_pattern.ipynb)
 
